@@ -168,6 +168,10 @@ h2.team5{
     .container{
         padding-top: 0em;
     }
+    .position{
+        padding: 0.2em;
+        padding-bottom: 0em;  
+    }
     td{
         display: block;
         width: 100%;
@@ -187,5 +191,9 @@ h2.team5{
     .container{
         padding-top: 0em;
         height: 500px;
+    }
+    .position{
+        padding: 0.2em;
+        padding-bottom: 0.2em;  
     }
 }
