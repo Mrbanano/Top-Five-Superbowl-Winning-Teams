@@ -66,6 +66,54 @@ td a:hover {
 /*team page*/
 
 
+.title-item{
+    border-bottom: teal solid 2px;
+    padding-bottom: 1em;
+    font-size: 2em;
+    
+}
+
+.position{
+ background-color: teal;
+ color: white;
+ padding: 0.5em;
+ border-radius: 4px;
+ margin-left: 0.1em;
+}
+
+.content p{
+    text-align: justify;
+}
+
+.fa-times-circle{
+    color:teal;
+}
+.close{
+
+    float:right;
+    display: inline-block;
+    color:white;
+}
+
+
+.address{
+    font-weight: bold;
+    color:teal;
+    display: inline-block;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    
+}
+
+.main-img{
+    float: left;
+    margin-right: 1em;
+    height: 250px;
+    max-width: 100%;
+}
+
+
+
 /* media querys*/
 @media (max-width:600px){
 
