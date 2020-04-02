@@ -69,8 +69,7 @@ td a:hover {
 .title-item{
     border-bottom: teal solid 2px;
     padding-bottom: 1em;
-    font-size: 2em;
-    
+    font-size: 2em;    
 }
 
 .position{
@@ -88,8 +87,7 @@ td a:hover {
 .fa-times-circle{
     color:teal;
 }
-.close{
-
+.close{  
     float:right;
     display: inline-block;
     color:white;
@@ -110,6 +108,73 @@ td a:hover {
     margin-right: 1em;
     height: 250px;
     max-width: 100%;
+}
+
+/* team#1*/
+
+address.team1, .team1 .fa-times-circle  {
+    color: #0d2446;
+}
+
+span.team1 {
+    background-color:#0d2446;
+}
+
+h2.team1{
+    border-bottom: #0d2446 solid 2px;   
+}
+
+/* team#2*/
+
+address.team2, .team2 .fa-times-circle  {
+    color: #0d2446;
+}
+
+span.team2 {
+    background-color:#0d2446;
+}
+
+h2.team2{
+    border-bottom: #0d2446 solid 2px;   
+}
+/* team#3*/
+
+address.team3, .team3 .fa-times-circle  {
+    color: #0d2446;
+}
+
+span.team3 {
+    background-color:#0d2446;
+}
+
+h2.team3{
+    border-bottom: #0d2446 solid 2px;   
+}
+/* team#4*/
+
+address.team4, .team4 .fa-times-circle  {
+    color: #0d2446;
+}
+
+span.team4 {
+    background-color:#0d2446;
+}
+
+h2.team4{
+    border-bottom: #0d2446 solid 2px;   
+}
+/* team#5*/
+
+address.team5, .team5 .fa-times-circle  {
+    color: #0d2446;
+}
+
+span.team5 {
+    background-color:#0d2446;
+}
+
+h2.team5{
+    border-bottom: #0d2446 solid 2px;   
 }
 
 
