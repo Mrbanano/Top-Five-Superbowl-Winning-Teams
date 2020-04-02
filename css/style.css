@@ -140,15 +140,15 @@ h2.team2{
 /* team#3*/
 
 address.team3, .team3 .fa-times-circle  {
-    color: #0d2446;
+    color: #010042;
 }
 
 span.team3 {
-    background-color:#0d2446;
+    background-color:#010042;
 }
 
 h2.team3{
-    border-bottom: #0d2446 solid 2px;   
+    border-bottom: #010042 solid 2px;   
 }
 /* team#4*/
 
