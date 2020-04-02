@@ -127,15 +127,15 @@ h2.team1{
 /* team#2*/
 
 address.team2, .team2 .fa-times-circle  {
-    color: #0d2446;
+    color: #e8bf17;
 }
 
 span.team2 {
-    background-color:#0d2446;
+    background-color:#e8bf17;
 }
 
 h2.team2{
-    border-bottom: #0d2446 solid 2px;   
+    border-bottom: #e8bf17 solid 2px;   
 }
 /* team#3*/
 
