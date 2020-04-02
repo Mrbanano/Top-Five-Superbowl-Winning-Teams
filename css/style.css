@@ -71,7 +71,6 @@ td a:hover {
     padding-bottom: 1em;
     font-size: 2em;    
 }
-
 .position{
  background-color: teal;
  color: white;
@@ -79,11 +78,9 @@ td a:hover {
  border-radius: 4px;
  margin-left: 0.1em;
 }
-
 .content p{
     text-align: justify;
 }
-
 .fa-times-circle{
     color:teal;
 }
@@ -92,8 +89,6 @@ td a:hover {
     display: inline-block;
     color:white;
 }
-
-
 .address{
     font-weight: bold;
     color:teal;
@@ -102,7 +97,6 @@ td a:hover {
     margin-bottom: 1em;
     
 }
-
 .main-img{
     float: left;
     margin-right: 1em;
@@ -111,57 +105,46 @@ td a:hover {
 }
 
 /* team#1*/
-
 address.team1, .team1 .fa-times-circle  {
     color: #0d2446;
 }
-
 span.team1 {
     background-color:#0d2446;
 }
-
 h2.team1{
     border-bottom: #0d2446 solid 2px;   
 }
-
 /* team#2*/
-
 address.team2, .team2 .fa-times-circle  {
     color: #e8bf17;
 }
-
 span.team2 {
     background-color:#e8bf17;
 }
-
 h2.team2{
     border-bottom: #e8bf17 solid 2px;   
 }
 /* team#3*/
-
 address.team3, .team3 .fa-times-circle  {
     color: #010042;
 }
-
 span.team3 {
     background-color:#010042;
 }
-
 h2.team3{
     border-bottom: #010042 solid 2px;   
 }
 /* team#4*/
-
 address.team4, .team4 .fa-times-circle  {
-    color: #0d2446;
+    color: #ac0000;
 }
 
 span.team4 {
-    background-color:#0d2446;
+    background-color:#ac0000;
 }
 
 h2.team4{
-    border-bottom: #0d2446 solid 2px;   
+    border-bottom: #ac0000 solid 2px;   
 }
 /* team#5*/
 
